@@ -54,7 +54,7 @@ This dashboard allows users to:
 
 ---
 
-#  **How to Run This Project Locally**
+##  **How to Run This Project Locally**
 
 1. **Clone the Repository**
 ```sh
@@ -69,7 +69,8 @@ jupyter notebook
 
 Open customer_segmentation.ipynb and run all cells to see the clustering results.
 
-Future Improvements
+---
+## **Future Improvements**
 🔹 Add Age-Based Clustering to refine segmentation
 🔹 Experiment with Hierarchical & DBSCAN Clustering
 🔹 Integrate Streamlit for a web-based ML dashboard
