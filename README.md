@@ -1,6 +1,5 @@
-# customer-segmentation-kmeans
+# Customer-segmentation-kmeans
 "Customer segmentation using K-Means clustering and Tableau for data visualization."
-// Customer Segmentation Using K-Means & Tableau
 
 ##  Overview  
 Understanding customer behavior is essential for businesses to optimize marketing strategies. This project applies **K-Means clustering** to segment customers based on **Annual Income & Spending Score** and visualizes the insights using **Tableau**.
