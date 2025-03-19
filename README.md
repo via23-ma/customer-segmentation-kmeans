@@ -12,10 +12,10 @@ Understanding customer behavior is essential for businesses to optimize marketin
 ##  Dataset  
 The dataset contains 200 mall customers with the following attributes:  
 -  **CustomerID** – Unique identifier  
-- 🏷**Genre** – Male / Female  
--   **Age** – Customer’s age
--   **Annual Income (k$)** – Yearly income in thousands  
--   **Spending Score (1-100)** – Customer's spending behavior  
+-  **Genre** – Male / Female  
+-  **Age** – Customer’s age
+-  **Annual Income (k$)** – Yearly income in thousands  
+-  **Spending Score (1-100)** – Customer's spending behavior  
 
  **Business Objective**  
 The goal is to **group customers into meaningful segments** based on their spending behavior and income, helping businesses target them effectively.
