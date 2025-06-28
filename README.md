@@ -38,7 +38,7 @@ K-Means clustering identified **5 unique customer groups**:
 |  Cluster 3 | Budget Customers | Low Income, Low Spending |
 |  Cluster 4 | Balanced Customers | Medium Income, Balanced Spending |
 
-** Business Application:** Helps businesses create **personalized marketing strategies** for each segment.
+** Business Application**: Helps businesses create **personalized marketing strategies** for each segment.
 
 ---
 
@@ -57,7 +57,7 @@ This dashboard allows users to:
 
 1. **Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/customer-segmentation-kmeans.git
+git clone https://github.com/via23-ma/customer-segmentation-kmeans.git
 cd customer-segmentation-kmeans
 
 2. **Install Dependencies**
